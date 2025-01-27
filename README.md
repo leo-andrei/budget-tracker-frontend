@@ -1,4 +1,9 @@
-# React + TypeScript + Vite
+# Interactive page for the budget tracker generator (ads campaigns)
+## Build 
+```
+npm run dev -d
+```
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
